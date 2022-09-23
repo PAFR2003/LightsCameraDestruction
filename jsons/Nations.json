@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Reactorland",
+        "leaderName": "Reactor Ani Glendelian",
+        "adjective": ["Reactorite"],
+        "startBias": ["Coast"],
+        "preferredVictoryType": "Neutral",
+        "favoredReligion": "Naturism",
+
+        "startIntroPart1": "The Reactorites are a unique ethnic group located in the western coast of North America. I asked this people who are their descendants and they said they were the last descendants of FBE Reactors which I never heard of before. I dunno who are those people but they said they show me portraits of random people I don't know and then I realized they are just some weird entertainers with some weird peripherals on their head. I ran away from these people and got scared of them. I never returned.",
+        "startIntroPart2": "- Adventures in the Wasteland",
+        "declaringWar": "We will never never retreat, we will never surrender, we are the reactors and will fight for the people! REACTORS, MOBILIZE!",
+        "attacked": "WHAT ARE YOU DOING!",
+        "defeated": "We are defeated but one day we will revolt! You can stop our nation but not the DNA... this is Wasteland Reaction Entertainment, now signing off!",
+        "introduction": "Welcome to Reactorland, we are the descendants of the Fine Brothers Entertainment reactors.",
+        "neutralHello": "Hello!",
+        "hateHello": "WHAT ARE YOU DOING HERE!!!",
+        "tradeRequest": "I kindly accept your offer.",
+
+        "outerColor": [0, 0, 205],
+        "innerColor": [255, 255, 255],
+        "uniqueName": "Tribes of the Silicon Valley",
+        "uniques": [
+            "Starts with [Secrets of the Past]",
+            "Starts with [Writing]",
+            "Starts with [Computers]",
+            "Starts with [Electronics]",
+            "[+2 Culture] [in all cities]",
+            "[-3 Science] [in all cities] <before discovering [Education]>"
+        ],
+        "cities": [
+            "Victoria",
+            "Liaia",
+            "Bo-Rae",
+            "Finea",
+            "Izzi-Shahronia",
+            "Madison Coast",
+            "Anaita Forest",
+            "Mikaelania",
+            "Brandonii",
+            "Tomphelania",
+            "Shanto-Taliastania",
+            "Beckermania",
+            "Jaykania",
+            "Jordan Burton Island",
+            "Chelsean Territory",
+            "Jeannite Mountains",
+            "Kennedy School",
+            "Vartouhi River",
+            "Megan-Shannonia",
+            "Fenton Bay",
+            "Hudson Steppes",
+            "Brianna Steppes",
+            "Alliso-Kelli"
+        ]
+    }
+]
+
