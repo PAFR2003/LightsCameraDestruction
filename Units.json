@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Reactorite Gunman",
+		"replaces": "Gunman",
+        "uniqueTo": "Reactorland",
+		"unitType": "Shooter",
+		"cost": 30,
+		"movement": 3,
+		"strength": 30,
+        "rangedStrength": 22,
+        "range": 1,
+		"interceptRange": 1,
+		"requiredTech": "The Wheel",
+		"obsoleteTech": "Rifling",
+		"upgradesTo": "Rifleman",
+		"hurryCostModifier": 20,
+		"uniques": [
+            "All adjacent units heal [+5] HP when healing",
+			"All adjacent units heal [+10] HP when healing <in [Land] [Friendly Land] tiles>",
+            "[+1] Sight"
+		],
+		"attackSound": "shot"
+	}	
+]
