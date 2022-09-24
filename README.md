@@ -13,4 +13,4 @@ Reactor Tower: A very tall, dystopian looking tower with strong internet connect
 
 RV Camp: A large camping site for the homeless wastelanders. They have free electricity and free necessities in this camp.
 
-Reaction Center: A medium sized apartment like building that acts both as a reaction video production studio to the masses and a philosophy center every person on the wasteland.
+Reaction Center: A medium sized apartment like building that acts both as a reaction video production studio to the masses and a philosophy and debate center for every person on the wasteland.
