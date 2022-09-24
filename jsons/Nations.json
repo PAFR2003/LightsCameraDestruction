@@ -4,7 +4,7 @@
         "leaderName": "Reactor Ani Glendelian",
         "adjective": ["Reactorite"],
         "startBias": ["Coast"],
-        "preferredVictoryType": "Neutral",
+        "preferredVictoryType": "Cultural",
         "favoredReligion": "Naturism",
 
         "startIntroPart1": "The Reactorites are a unique ethnic group located in the western coast of North America. I asked this people who are their descendants and they said they were the last descendants of FBE Reactors which I never heard of before. I dunno who are those people but they said they show me portraits of random people I don't know and then I realized they are just some weird entertainers with some weird peripherals on their head. I ran away from these people and got scared of them. I never returned.",
@@ -18,7 +18,7 @@
         "tradeRequest": "I kindly accept your offer.",
 
         "outerColor": [0, 0, 205],
-        "innerColor": [255, 255, 255],
+        "innerColor": [255, 255, 0],
         "uniqueName": "Tribes of the Silicon Valley",
         "uniques": [
             "Starts with [Secrets of the Past]",
