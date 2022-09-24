@@ -13,7 +13,7 @@ Edited README
 
 1.0.0c
 Code changes:
-Changed Happiness from -2 to +1,
+Changed Happiness of the Reactor Tower from -2 to +1,
 Increased Culture of 9G Tower from +3 to +4,
 Dropped the cost and hurry cost of 9G Tower,
 Increased range of Reactorite Gunman from 1 to 2,
