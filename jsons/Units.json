@@ -5,7 +5,7 @@
     "replaces": "Gunman",        
     "unitType": "Shooter",
     "cost": 30,
-    "movement": 3,
+    "movement": 2,
     "strength": 30,
     "rangedStrength": 25,
     "range": 2,
