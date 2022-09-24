@@ -19,3 +19,7 @@ Dropped the cost and hurry cost of 9G Tower,
 Increased range of Reactorite Gunman from 1 to 2,
 Lowered movement of Reactorite Gunman to 3 to 2,
 Fixed alignment of Units.json
+
+1.0.0d
+Added images file
+Edited credits.md
