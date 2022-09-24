@@ -18,3 +18,10 @@ https://thenounproject.com/icon/rv-180365/
 https://thenounproject.com/icon/hunter-4396224/
 
 All of the used assets mentioned above are licensed under Creative Commons Attribution (CC-BY) license.
+
+[Thank you! Section - People who helped me]
+
+Discord:
+
+Bamboolord for asking this mod to be sent to GH
+ZaboTheGreat for balancing and ideas
