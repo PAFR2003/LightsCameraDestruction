@@ -23,10 +23,10 @@
         "uniques": [
             "Starts with [Secrets of the Past]",
             "Starts with [Writing]",
-            "Starts with [Computers]",
+            "Starts with [Radio]",
             "Starts with [Electronics]",
             "[+2 Culture] [in all cities]",
-            "[-3 Science] [in all cities] <before discovering [Education]>"
+            "[-2 Science] [in all cities] <before discovering [Education]>"
         ],
         "cities": [
             "Victoria",
