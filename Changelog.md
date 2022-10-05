@@ -1,5 +1,6 @@
 # Changelog
 
+
 1.0.0
 Initial Release
 
@@ -23,3 +24,7 @@ Fixed alignment of Units.json
 1.0.0d
 Added images file
 Edited credits.md
+
+1.0.1
+Edited Readme for Reactorland lore
+Edited the allignment of this changelog
