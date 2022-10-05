@@ -27,4 +27,3 @@ Edited credits.md
 
 1.0.1
 Edited Readme for Reactorland lore
-Edited the allignment of this changelog
