@@ -8,7 +8,8 @@
         "uniques": [
             "Can only be built [in capital]",
             "[+1 Culture] [in capital]",
-            "[+1 Science] [in capital]",
+            "[+1 Science] [in capital],
+            "[+1 Faith] [in all cities]",
             "[+1 Happiness] [in all cities]"
         ],
 		"quote": "*pfft* You are now watching Wasteland Reaction Entertainment TV1 AXYZ, located in Victoria, Reactorland, connected digitally not just in Reactorland but in the entire wasteland, we are bringing you 24/7 of quality reaction videos and news broadcasts all around the world. Good Morning everyone, this is Ani Glendelian, reporting here in Glendale District, we are now signing on and enjoy our presentation...",
@@ -24,7 +25,8 @@
         "name": "9G Tower",
         "replaces": "Monument",
         "uniqueTo": "Reactorland",
-        "culture": 4
+        "culture": 4,
+        "happiness": 1,
         "cost": 38,
         "hurryCostModifier": 38,
         "uniques": [
