@@ -5,6 +5,8 @@ Units-
 
 Reactor Gunman: Reactor Gunman is a unique early gunman of the wasteland with strong firepower.
 
+Metal-Wielding Survivors: A group of Reactorites holding different weapons ranging from swords, scrap metal, shields, explosives and many more. They are a large group of people (over 100 people!) walking in formation. 
+
 Buildings-
 
 Reactor Tower: A very tall, dystopian looking tower with strong internet connection capabilities, it has a 9G internet speed according to the official website of the Reactorland government page.
