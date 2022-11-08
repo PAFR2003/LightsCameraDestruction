@@ -27,3 +27,6 @@ Edited credits.md
 
 1.0.1
 Edited Readme for Reactorland lore
+
+1.0.2
+Adds a new unit: "Metal-Wielding Survivors"
