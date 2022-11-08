@@ -21,6 +21,21 @@
                   ],
         "attackSound": "shot"
 
-   }	
+   },
+   {
+		"name": "Metal-Wielding Survivors",
+		"unitType": "Scrapper",
+		"uniqueTo": "Reactorland",
+		"replaces": "Spearman",
+		"movement": 2,
+		"strength": 30,
+		"cost": 15,
+		"upgradesTo": "Militia",
+		"hurryCostModifier": 18,
+		"obsoleteTech": "Rifling",
+		"uniques": ["Low Tech", "[+25]% Strength <vs [Low Tech] units>"],
+		"promotions": ["Forage"],
+		"attackSound": "metalhit"
+    }		
 
 ]
