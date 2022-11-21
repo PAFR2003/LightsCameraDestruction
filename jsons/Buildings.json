@@ -25,7 +25,7 @@
         "name": "9G Tower",
         "replaces": "Monument",
         "uniqueTo": "Reactorland",
-        "culture": 4,
+        "culture": 3,
         "happiness": 1,
         "cost": 38,
         "hurryCostModifier": 38,
@@ -38,7 +38,6 @@
 		"name": "RV Camp",
 		"replaces": "Broadcast Tower",
 		"uniqueTo": "Reactorland",
-		"culture": 3,
 		"happiness": 2,
 		"specialistSlots": { "Administrator": 2 },
 		"percentStatBonus": { "culture": 30 },
@@ -51,8 +50,21 @@
 		"replaces": "Stadium",
 		"uniqueTo": "Reactorland",
 		"happiness": 4,
-		"culture": 3,
+		"culture": 2,
 		"maintenance": 1,
 		"requiredTech": "Social Engineering"
+	},
+	{
+		"name": "Tele-Shopping Puzzle Gameshow",
+		"specialistSlots": { "Merchant": 1 },
+		"happiness": 1,
+		"culture": 1
+		"hurryCostModifier": 25,
+		"uniques": [
+		          "[+1 Gold] from [Luxury resource] tiles [in this city]",
+		          "[+1 Gold] per [5] population [in this city]",
+                          "Consumes [1] [Power]"
+         ],
+         "requiredTech": "Trade"
 	}
 ]
