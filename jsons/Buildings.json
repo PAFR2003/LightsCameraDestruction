@@ -62,11 +62,7 @@
 		"happiness": 1,
 		"culture": 1
 		"hurryCostModifier": 25,
-		"uniques": [
-		          "[+1 Gold] from [Luxury resource] tiles [in this city]",
-		          "[+1 Gold] per [5] population [in this city]",
-                          "Consumes [1] [Power]"
-         ],
-         "requiredTech": "Trade"
+		"uniques": "[+1 Gold] per [2] population [in this city]"
+                "requiredTech": "Trade"
 	}
 ]
