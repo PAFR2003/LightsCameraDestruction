@@ -30,3 +30,7 @@ Edited Readme for Reactorland lore
 
 1.0.2
 Adds a new unit: "Metal-Wielding Survivors"
+
+1.0.3
+Adds a new building: "Tele-Shopping Puzzle Gameshow"
+Balanced some buildings
