@@ -39,13 +39,14 @@
 		"replaces": "Broadcast Tower",
 		"uniqueTo": "Reactorland",
 		"happiness": 2,
+                "culture": 1,
 		"specialistSlots": { "Administrator": 2 },
 		"percentStatBonus": { "culture": 30 },
 		"uniques": ["Consumes [1] [Power]"],
 		// "maintenance": 3,
 		"requiredTech": "Radio"
 	},
-    {
+        {
 		"name": "Reaction Center",
 		"replaces": "Stadium",
 		"uniqueTo": "Reactorland",
@@ -61,7 +62,6 @@
 		"specialistSlots": { "Merchant": 1 },
 		"happiness": 1,
 		"culture": 1,
-		"uniques": "[+1 Gold] per [4] population [in all cities]",
                 "requiredTech": "Trade"
 	}
 ]
