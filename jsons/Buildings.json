@@ -61,7 +61,6 @@
 		"specialistSlots": { "Merchant": 1 },
 		"happiness": 1,
 		"culture": 1,
-		"hurryCostModifier": 25,
 		"uniques": "[+1 Gold] per [4] population [in all cities]",
                 "requiredTech": "Trade"
 	}
