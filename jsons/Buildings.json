@@ -50,12 +50,14 @@
 		"replaces": "Stadium",
 		"uniqueTo": "Reactorland",
 		"happiness": 4,
-		"culture": 2,
+		"culture": 1,
 		"maintenance": 1,
 		"requiredTech": "Social Engineering"
 	},
 	{
 		"name": "Tele-Shopping Puzzle Gameshow",
+                "replaces": "Market",
+                "uniqueTo": "Reactorland",
 		"specialistSlots": { "Merchant": 1 },
 		"happiness": 1,
 		"culture": 1
