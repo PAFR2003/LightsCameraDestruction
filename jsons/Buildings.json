@@ -63,5 +63,21 @@
 		"happiness": 1,
 		"culture": 1,
                 "requiredTech": "Trade"
+	},
+        {
+		"name": "Television Network",
+		"replaces": "Town Hall",
+		"specialistSlots": { "Administrator": 1 },
+		"maintenance": 1,
+		"uniques": [
+			"[+1 Culture] per [5] population [in this city]",
+			"[-25]% Culture cost of natural border growth [in this city]",
+			"[-25]% Gold cost of acquiring tiles [in this city]",
+			"[+1 Happiness, +1 Culture, +1 Gold] [in this city] <with [Power]>",
+			"[Consumes [1] [Power]",
+			"[+1] population [in this city]"
+		],
+		"hurryCostModifier": 25,
+		"requiredTech": "Civil Service"
 	}
 ]
