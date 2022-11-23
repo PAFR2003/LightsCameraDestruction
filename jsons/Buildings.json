@@ -67,6 +67,7 @@
         {
 		"name": "Television Network",
 		"replaces": "Town Hall",
+                "uniqueTo": "Reactorland",
 		"specialistSlots": { "Administrator": 1 },
 		"maintenance": 1,
 		"uniques": [
