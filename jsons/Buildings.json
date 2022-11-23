@@ -74,7 +74,7 @@
 			"[+1 Culture] per [5] population [in this city]",
 			"[-25]% Culture cost of natural border growth [in this city]",
 			"[-25]% Gold cost of acquiring tiles [in this city]",
-			"[+1 Happiness, +1 Culture, +1 Gold] [in this city] <with [Power]>",
+			"[+1 Happiness, +1 Culture, +1 Gold] [in this city]",
 			"[Consumes [1] [Power]"
 		],
 		"hurryCostModifier": 25,
