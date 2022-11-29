@@ -17,6 +17,10 @@ RV Camp: A large camping site for the homeless wastelanders. They have free elec
 
 Reaction Center: A medium sized apartment like building that acts both as a reaction video production studio to the masses and a philosophy and debate center for every person on the wasteland.
 
+Tele-Shopping Puzzle Gameshow: A variety show that double as a gameshow and TV shopping, a person can win real money by participating in this.
+
+Audition Center: It's actually an citizenship center but full of cameras, free gadgets and entertainment. Used to call stateless wastelanders to join the state of Reactorland.
+
 -----
 
 Overview of Reactorland:
@@ -31,4 +35,4 @@ The neomodern Reactorians are descendants of the ancient FBE Reactor culture loc
 
  -Culture:
 ------
-Reactorland culture is a very diverse comparable to our modern Japanese culture (but without the weirdness), anyone in the wasteland knows that Reactorland is famous for their reaction video culture which features different people all around wasteland and their reactions and philosophies but Reactorland is not just famous in their most famous export but there's more such as their neomodern forests, unique Naturist sacred sites, cheap schools and RV camps with free things
+Reactorland culture is a very diverse comparable to our modern Japanese culture (but without the weirdness), anyone in the wasteland knows that Reactorland is famous for their reaction video culture which features different people all around wasteland and their reactions and philosophies but Reactorland is not just famous in their most famous export but there's more such as their neomodern forests, unique Humanist sacred sites, cheap schools and RV camps with free things
