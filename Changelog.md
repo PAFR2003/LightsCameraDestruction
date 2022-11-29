@@ -34,3 +34,8 @@ Adds a new unit: "Metal-Wielding Survivors"
 1.0.3
 Adds a new building: "Tele-Shopping Puzzle Gameshow"
 Balanced some buildings
+
+1.0.4
+Adds a new building: "Audition Center"
+Changes religion to "Humanism"
+
