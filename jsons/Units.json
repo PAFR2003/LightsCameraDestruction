@@ -1,6 +1,6 @@
 [
   {
-    "name": "Reactorite Gunman",
+    "name": "Early Gunner",
     "uniqueTo": "Reactorland",
     "replaces": "Gunman",        
     "unitType": "Shooter",
@@ -36,6 +36,30 @@
 		"uniques": ["Low Tech", "[+25]% Strength <vs [Low Tech] units>"],
 		"promotions": ["Forage"],
 		"attackSound": "metalhit"
+    },
+    {
+		"name": "Titanium Zeppelin",
+		"unitType": "Helicopter",
+		"uniqueTo": "Reactorland",
+		"replaces": "Blimp",
+		"range": 1,
+		"interceptRange": 1,
+		"movement": 5,
+		"strength": 17,
+		"rangedStrength": 22,
+		"cost": 95,
+		"requiredTech": "Steel",
+		"obsoleteTech": "Gyroscopes",
+		"upgradesTo": "Helicopter",
+		"uniques": [
+			"[-25]% Strength <vs [Armor] units>",
+			"Can move after attacking",
+			"[+25]% Strength <vs cities> <when attacking>",
+			"May withdraw before melee ([50]%)",
+			"Never appears as a Barbarian unit"
+		],
+		"hurryCostModifier": 17,
+		"attackSound": "shot"
     }		
 
 ]
