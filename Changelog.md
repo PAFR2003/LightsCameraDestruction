@@ -39,3 +39,5 @@ Balanced some buildings
 Adds a new building: "Audition Center"
 Changes religion to "Humanism"
 
+1.0.5
+Adds a new unit: "Titanium Zeppelin"
