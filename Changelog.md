@@ -41,3 +41,6 @@ Changes religion to "Humanism"
 
 1.0.5
 Adds a new unit: "Titanium Zeppelin"
+
+1.0.6
+I did a lot of word editing from nations.json and buildings.json.
