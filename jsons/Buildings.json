@@ -48,7 +48,7 @@
 		"requiredTech": "Radio"
 	},
         {
-		"name": "Reaction Center",
+		"name": "Creator's Guild",
 		"replaces": "Stadium",
 		"uniqueTo": "Reactorland",
 		"happiness": 4,
@@ -57,7 +57,7 @@
 		"requiredTech": "Social Engineering"
 	},
 	{
-		"name": "Tele-Shopping Puzzle Gameshow",
+		"name": "Channel 10",
                 "replaces": "Market",
                 "uniqueTo": "Reactorland",
 		"specialistSlots": { "Merchant": 1 },
