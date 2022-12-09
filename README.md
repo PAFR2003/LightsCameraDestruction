@@ -19,7 +19,7 @@ RV Camp: A large camping site for the homeless wastelanders. They have free elec
 
 Reaction Center: A medium sized apartment like building that acts both as a reaction video production studio to the masses and a philosophy and debate center for every person on the wasteland.
 
-Tele-Shopping Puzzle Gameshow: A variety show that double as a gameshow and TV shopping, a person can win real money by participating in this.
+Channel 10: A variety channel that double as a gameshow and TV shopping, a person can win real money by participating in this.
 
 Audition Center: It's actually an citizenship center but full of cameras, free gadgets and entertainment. Used to call stateless wastelanders to join the state of Reactorland.
 
