@@ -44,3 +44,6 @@ Adds a new unit: "Titanium Zeppelin"
 
 1.0.6
 I did a lot of word editing from nations.json and buildings.json.
+
+1.0.7
+The Reactorland has now sprites thanks to Bamboolord!
