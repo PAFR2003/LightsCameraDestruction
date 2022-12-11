@@ -17,5 +17,5 @@ All of the used assets mentioned above are licensed under Creative Commons Attri
 
 Discord:
 
-Bamboolord for asking this mod to be sent to GH
+Bamboolord for asking this mod to be sent to GH and atlas and game.png file rendering
 ZaboTheGreat for balancing and ideas
