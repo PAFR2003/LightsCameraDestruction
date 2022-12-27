@@ -50,3 +50,7 @@ The Reactorland has now sprites thanks to Bamboolord!
 
 1.0.8
 Added and changed town names
+
+1.0.8a
+MWS now require metal for balancing
+Early Gunman now require coal balancing
