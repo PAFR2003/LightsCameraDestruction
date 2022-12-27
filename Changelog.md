@@ -47,3 +47,6 @@ I did a lot of word editing from nations.json and buildings.json.
 
 1.0.7
 The Reactorland has now sprites thanks to Bamboolord!
+
+1.0.8
+Added and changed town names
