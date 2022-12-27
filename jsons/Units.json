@@ -4,11 +4,11 @@
       "uniqueTo": "Reactorland",
       "replaces": "Gunman",        
       "unitType": "Shooter",
-      "cost": 28,
+      "cost": 35,
       "movement": 2,
       "strength": 28,
-      "rangedStrength": 23,
-      "range": 2,
+      "rangedStrength": 20,
+      "range": 1,
       "interceptRange": 1,
       "requiredTech": "The Wheel",
       "obsoleteTech": "Rifling",
@@ -16,7 +16,7 @@
       "hurryCostModifier": 20,
       "uniques": [
            "All adjacent units heal [+5] HP when healing",
-           "All adjacent units heal [+10] HP when healing <in [Land] [Friendly Land] tiles>",
+           "Consumes [1] [Coal]",
            "[+1] Sight"
       ],
         "attackSound": "shot"
@@ -29,11 +29,15 @@
       "replaces": "Spearman",
       "movement": 2,
       "strength": 30,
-      "cost": 15,
+      "cost": 20,
       "upgradesTo": "Militia",
       "hurryCostModifier": 15,
       "obsoleteTech": "Rifling",
-      "uniques": ["Low Tech", "[+25]% Strength <vs [Low Tech] units>"],
+      "uniques": [
+          "Low Tech",
+          "Consumes [1] [Metal]",
+          "[+25]% Strength <vs [Low Tech] units>"
+      ],
       "promotions": ["Forage"],
       "attackSound": "metalhit"
     },
