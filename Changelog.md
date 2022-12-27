@@ -53,4 +53,4 @@ Added and changed town names
 
 1.0.8a
 MWS now require metal for balancing
-Early Gunman now require coal balancing
+Early Gunman now require coal for balancing
