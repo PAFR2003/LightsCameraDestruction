@@ -6,7 +6,7 @@
       "unitType": "Shooter",
       "cost": 35,
       "movement": 2,
-      "strength": 28,
+      "strength": 35,
       "rangedStrength": 20,
       "range": 1,
       "interceptRange": 1,
@@ -15,8 +15,9 @@
       "upgradesTo": "Rifleman",
       "hurryCostModifier": 20,
       "uniques": [
+           "Low Tech",
            "All adjacent units heal [+5] HP when healing",
-           "Consumes [1] [Coal]",
+           "Consumes [1] [Metal]",
            "[+1] Sight"
       ],
         "attackSound": "shot"
@@ -29,13 +30,12 @@
       "replaces": "Spearman",
       "movement": 2,
       "strength": 30,
-      "cost": 20,
+      "cost": 40,
       "upgradesTo": "Militia",
       "hurryCostModifier": 15,
       "obsoleteTech": "Rifling",
       "uniques": [
           "Low Tech",
-          "Consumes [1] [Metal]",
           "[+25]% Strength <vs [Low Tech] units>"
       ],
       "promotions": ["Forage"],
