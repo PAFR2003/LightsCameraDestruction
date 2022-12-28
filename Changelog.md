@@ -54,3 +54,7 @@ Added and changed town names
 1.0.8a
 MWS now require metal for balancing
 Early Gunman now require coal for balancing
+
+1.0.8b
+MWS metal requirement is removed but the Early Gunner now requires metal
+MWS balancing
