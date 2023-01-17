@@ -58,3 +58,15 @@ Early Gunman now require coal for balancing
 1.0.8b
 MWS metal requirement is removed but the Early Gunner now requires metal
 MWS balancing
+
+1.0.9 (via Discord)
+Reactorland has a new update and a building: 
+
+*"Reaction Video Company"*
+
+The building replaces Monastery. It has less faith and requires power but gives gold and water.
+
+Other updates:
+- The Early Gunner now requires coal instead of metal
+- Replace the nation color
+- Lowered "The People's Voices" culture
