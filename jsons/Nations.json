@@ -17,8 +17,8 @@
         "hateHello": "The people of Reactorland will not tolerate any of your questionable actions.",
         "tradeRequest": "The people's voices has spoken.",
 
-        "outerColor": [0, 0, 205],
-        "innerColor": [255, 255, 0],
+        "outerColor": [15, 171, 255],
+        "innerColor": [255, 255, 255],
         "uniqueName": "The People's Voices",
         "uniques": [
             "Starts with [Secrets of the Past]",
