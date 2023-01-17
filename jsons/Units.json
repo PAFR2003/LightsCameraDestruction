@@ -17,7 +17,7 @@
       "uniques": [
            "Low Tech",
            "All adjacent units heal [+5] HP when healing",
-           "Consumes [1] [Metal]",
+           "Consumes [1] [Coal]",
            "[+1] Sight"
       ],
         "attackSound": "shot"
