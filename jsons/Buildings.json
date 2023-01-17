@@ -36,6 +36,22 @@
         ]
     },
 	{
+		"name": Reaction Video Company",
+		"replaces": "Monastery",
+                "uniqueTo": "Reactorland",
+                "faith": 1,
+                "gold": 1,
+                "culture": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Education",
+		"uniques": [
+			"Only available <in cities with a [Shrine]>",
+                        "Consumes [1] [Power]",
+			"Hidden when religion is disabled"
+		]
+	},
+	{
 		"name": "Production Truck Camp",
 		"replaces": "Broadcast Tower",
 		"uniqueTo": "Reactorland",
@@ -52,7 +68,7 @@
 		"replaces": "Stadium",
 		"uniqueTo": "Reactorland",
 		"happiness": 4,
-		"culture": 2,
+		"culture": 1,
 		"maintenance": 1,
 		"requiredTech": "Social Engineering"
 	},
