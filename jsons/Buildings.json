@@ -11,9 +11,10 @@
             "[+1 Culture] [in capital]",
             "[+1 Science] [in capital]",
             "[+1 Faith] [in all cities]",
-            "[+1 Happiness] [in all cities]"
+            "[+1 Happiness] [in all cities]",
+            "Gain a free [Reaction Video Company] [in this city]"
         ],
-		"quote": "Ani: Hello there people, this is TV1 Reactorland first day of broadcast signing on here in the wasteland. Over!",
+		"quote": "Ani: Hello there people, this is RTS Reactorland first day of broadcast signing on here in the wasteland. Over!",
 		"civilopediaText": [
 			{
 				"text": "Ani: Hello there people, this is TV1 Reactorland first day of broadcast signing on here in the wasteland. Over!"
@@ -40,8 +41,9 @@
 		"replaces": "Monastery",
                 "uniqueTo": "Reactorland",
                 "faith": 1,
-                "gold": 1,
+                "gold": 3,
                 "culture": 1,
+                "happiness": 1,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"requiredTech": "Education",
@@ -55,7 +57,7 @@
 		"name": "Production Truck Camp",
 		"replaces": "Broadcast Tower",
 		"uniqueTo": "Reactorland",
-		"happiness": 2,
+		"happiness": 1,
                 "culture": 1,
 		"specialistSlots": { "Administrator": 2 },
 		"percentStatBonus": { "culture": 30 },
