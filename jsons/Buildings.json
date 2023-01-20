@@ -54,6 +54,23 @@
 		]
 	},
 	{
+		"name": "Correctional Botanical Domes",
+                "replaces": "Prison Camp",
+                "uniqueTo": "Reactorland",
+		"hurryCostModifier": -25,
+		"food": 2,
+                "happiness": 2,
+		"cost": 35,
+		"uniques": [
+			"Remove extra unhappiness from annexed cities",
+			"Can only be built [in annexed cities]",
+                        "Free [Worker] appears",
+			"Only available <in cities without a [Listening Post]>",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Construction"
+	},
+	{
 		"name": "Production Truck Camp",
 		"replaces": "Broadcast Tower",
 		"uniqueTo": "Reactorland",
