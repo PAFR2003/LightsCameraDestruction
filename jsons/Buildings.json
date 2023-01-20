@@ -81,7 +81,8 @@
 		"specialistSlots": { "Merchant": 1 },
 		"happiness": 1,
 		"culture": 1,
-                "requiredTech": "Trade"
+                "requiredTech": "Trade",
+                "uniques": ["[+2 Gold] from [Luxury resource] tiles [in this city]"]
 	},
         {
 		"name": "Talent Agency",
