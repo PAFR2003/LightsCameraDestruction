@@ -118,12 +118,12 @@
 		"requiredTech": "Civil Service"
 	},
 	{
-		"name": "TV Station",
+		"name": " People's Entertainment Algorithm",
 		"uniqueTo": "Reactorland",
 		"replaces": "Content Farm",
 		"percentStatBonus": { "production": -5 },
 		"production": -1,
-		"culture": 2,
+		"culture": 1,
 		"uniques": [
 			"Provides [1] [Data]",
 			"Consumes [1] [Power]",
