@@ -6,7 +6,7 @@
         "uniqueTo": "Reactorland",
         "cost": 1,
         "uniques": [
-            "Provides [2] [Power]",
+            "Provides [1] [Power]",
             "Can only be built [in capital]",
             "[+1 Culture] [in capital]",
             "[+1 Science] [in capital]",
@@ -21,8 +21,7 @@
 			}
 		]	
     },
-
-    // Normal Uniques
+   // Normal Uniques
     {
         "name": "Connection Tower",
         "replaces": "Monument",
@@ -36,23 +35,7 @@
             "Destroyed when the city is captured"
         ]
     },
-	{
-		"name": "Reaction Video Company",
-		"replaces": "Monastery",
-                "uniqueTo": "Reactorland",
-                "faith": 1,
-                "gold": 3,
-                "culture": 1,
-                "happiness": 1,
-		"maintenance": 1,
-		"hurryCostModifier": 25,
-		"requiredTech": "Education",
-		"uniques": [
-			"Only available <in cities with a [Shrine]>",
-                        "Consumes [1] [Power]",
-			"Hidden when religion is disabled"
-		]
-	},
+
 	{
 		"name": "Correctional Botanical Domes",
                 "replaces": "Prison Camp",
@@ -69,6 +52,23 @@
 			"Destroyed when the city is captured"
 		],
 		"requiredTech": "Construction"
+	},
+        {
+		"name": "Reaction Video Company",
+		"replaces": "Monastery",
+                "uniqueTo": "Reactorland",
+                "faith": 1,
+                "gold": 3,
+                "culture": 1,
+                "happiness": 1,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Education",
+		"uniques": [
+			"Only available <in cities with a [Shrine]>",
+                        "Consumes [1] [Power]",
+			"Hidden when religion is disabled"
+		]
 	},
 	{
 		"name": "Production Truck Camp",
@@ -116,5 +116,65 @@
 		],
 		"hurryCostModifier": 25,
 		"requiredTech": "Civil Service"
-	}
+	},
+	{
+		"name": "TV Station",
+		"uniqueTo": "Reactorland",
+		"replaces": "Content Farm",
+		"percentStatBonus": { "production": -5 },
+		"production": -1,
+		"culture": 2,
+		"uniques": [
+			"Provides [1] [Data]",
+			"Consumes [1] [Power]",
+			"Only available <in cities with a [Broadcast Tower]>",
+			"[+10]% [Happiness] [in this city]"
+		],
+		"requiredTech": "Computers"
+	},
+	{
+		"name": "RCEC Factory",
+                "uniqueTo": "Reactorland",
+		"percentStatBonus": { "production": -5 },
+		"production": 1,
+                "happiness": -2,
+		"uniques": [
+			"Provides [1] [Electronics]",
+			"Consumes [1] [Power]",
+			"Only available <after adopting [Collectivism]>",
+			"Only available <in cities with a [Factory]>",
+                        "[-1] population [in this city]"
+		],
+		"requiredTech": "Electronics"
+	},
+	{
+		"name": "TMC Factory",
+                "uniqueTo": "Reactorland",
+		"percentStatBonus": { "production": -5 },
+		"production": 1,
+                "happiness": -2,
+		"uniques": [
+			"Provides [1] [Machine Parts]",
+			"Consumes [1] [Power]",
+			"Only available <after adopting [Collectivism]>",
+			"Only available <in cities with a [Factory]>",
+                        "[-1] population [in this city]"
+		],
+		"requiredTech": "Replaceable Parts"
+	},
+	{
+		"name": "RLE Factory",
+                "uniqueTo": "Reactorland",
+		"percentStatBonus": { "production": -5 },
+		"production": -1,
+                "happiness": 1,
+		"uniques": [
+			"Provides [1] [Books]",
+			"Consumes [1] [Power]",
+			"Only available <after adopting [Monopoly]>",
+			"Only available <in cities with a [Factory]>",
+                        "[-1] population [in this city]"
+		],
+		"requiredTech": "Manufacturing"
+	
 ]
