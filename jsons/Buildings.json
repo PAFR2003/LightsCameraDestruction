@@ -163,7 +163,7 @@
 		"requiredTech": "Replaceable Parts"
 	},
 	{
-		"name": "RLE Factory",
+		"name": "WGR Factory",
                 "uniqueTo": "Reactorland",
 		"percentStatBonus": { "production": -5 },
 		"production": -1,
@@ -176,5 +176,5 @@
                         "[-1] population [in this city]"
 		],
 		"requiredTech": "Manufacturing"
-	
+	}
 ]
