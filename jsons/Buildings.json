@@ -35,8 +35,7 @@
             "Destroyed when the city is captured"
         ]
     },
-
-	{
+    {
 		"name": "Correctional Botanical Domes",
                 "replaces": "Prison Camp",
                 "uniqueTo": "Reactorland",
