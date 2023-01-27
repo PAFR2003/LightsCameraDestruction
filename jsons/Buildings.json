@@ -110,7 +110,7 @@
 		"uniques": [
 			"Provides [1] [Data]",
 			"Consumes [1] [Power]",
-			"Only available <in cities with a [Broadcast Tower]>",
+			"Only available <in cities with a [Production Truck Camp]>",
 			"[+10]% [Happiness] [in this city]"
 		],
 		"requiredTech": "Computers"
