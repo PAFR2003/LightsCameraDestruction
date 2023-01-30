@@ -32,6 +32,7 @@
         "cost": 38,
         "hurryCostModifier": 38,
         "uniques": [
+            "Consumes [1] [Power]",
             "Can only be built [in all cities connected to capital]",
             "Destroyed when the city is captured"
         ]
@@ -81,7 +82,7 @@
 		"happiness": 1,
 		"culture": 1,
                 "requiredTech": "Trade",
-                "uniques": ["[+2 Gold] from [Luxury resource] tiles [in this city]"]
+                "uniques": ["[+2 Gold] from [Luxury resource] tiles [in this city]", "Consumes [1] [Power]"]
 	},
         {
 		"name": "Talent Agency",
@@ -121,11 +122,10 @@
                 "happiness": 2,
                 "maintenance": 2,
                 "uniques": [
-			"Consumes [1] [Power]",
+			"Consumes [2] [Power]",
 			"Only available <in cities with a [Reaction Video Company]>",
 			"[+5]% [Happiness] [in this city]"
 		],
-		"science": 5,
 		"requiredTech": "Artificial Intelligence",
 	}
 ]
