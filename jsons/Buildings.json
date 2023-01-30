@@ -118,7 +118,7 @@
 	},
 	{
 		"name": "People's Chatbot",
-                "unique to": "Reactorland",
+                "uniqueTo": "Reactorland",
                 "happiness": 2,
                 "maintenance": 2,
                 "uniques": [
