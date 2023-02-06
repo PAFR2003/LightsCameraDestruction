@@ -138,7 +138,7 @@
 			"[-50]% Unhappiness from [Population] [in all cities]",
 			"Only available <if [Search for Survivors] is constructed>",
 			"Can only be built [in capital]",
-			"Only available <in cities without a [Council]>",
+			"Only available <in cities without a [Copyright Party]>",
 			"Destroyed when the city is captured"
 		]
 	},
@@ -153,7 +153,7 @@
 			"[+5]% Production when constructing [All] buildings [in this city]",
 			"Only available <if [Search for Survivors] is constructed>",
 			"Can only be built [in capital]",
-			"Only available <in cities without a [Congress]>",
+			"Only available <in cities without a [Open Source Committee]>",
 			"Destroyed when the city is captured"
 		]
 	}
