@@ -131,6 +131,7 @@
 	{
 		"name": "Open Source Committee",
                 "uniqueTo": "Reactorland",
+                "replaces": "Congress",
 		"cost": 100,
 		"requiredTech": "Civil Service",
 		"uniques": [
@@ -145,6 +146,7 @@
 	{
 		"name": "Copyright Party",
                 "uniqueTo": "Reactorland",
+                "replaces": "Council",
 		"cost": 50,
 		"requiredTech": "Civil Service",
 		"uniques": [
