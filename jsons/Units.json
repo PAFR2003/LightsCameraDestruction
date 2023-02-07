@@ -64,6 +64,87 @@
       ],
       "hurryCostModifier": 17,
       "attackSound": "shot"
-    }		
-
+    },
+    {
+		"name": "Central Reactor Fedayi",
+		"unitType": "Scrapper",
+                "uniqueTo": "Reactorland",
+                "replaces": "Conscript",
+		"movement": 2,
+		"strength": 32,
+		"interceptRange": 1,
+		"cost": 75,
+		"upgradesTo": "National Protection Guard",
+		"hurryCostModifier": 20,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Combined Arms",
+		"uniques": [
+                        "Personnel",
+			"[25]% tile improvement construction time",
+			"Can build [Tree Plantation] improvements on tiles",
+			"Can build [Farm] improvements on tiles"
+		],
+		"attackSound": "machinegun"
+    },  
+    {
+		"name": "National Protection Guard",
+		"unitType": "Scrapper",
+                "uniqueTo": "Reactorland",
+                "replaces": "NBC Conscript",
+		"movement": 2,
+		"strength": 38,
+		"interceptRange": 1,
+		"cost": 150,
+		"requiredTech": "Plastics",
+		// "upgradesTo": "NBC Infantry", ??
+		"hurryCostModifier": 20,
+		"uniques": [
+			"Personnel",
+			"Only available <if [Factory] is constructed>",
+			"[25]% tile improvement construction time",
+			"Can build [Tree Plantation] improvements on tiles",
+			"Can build [Farm] improvements on tiles"
+		],
+		"promotions": ["Gas Mask"],
+		"attackSound": "machinegun"
+     },
+     {
+		"name": "Armed Delivery Drone",
+		"unitType": "Bomber",
+                "replaces": "Strike Drone",
+                "uniqueTo": "Reactorland",
+		"movement": 2,
+		"strength": 32,
+		"rangedStrength": 55,
+		"range": 7,
+		"cost": 250,
+		"requiredTech": "Avionics",
+		"hurryCostModifier": 20,
+		"uniques": [
+			"Automated",
+			"[+4] Sight",
+			"Can see over obstacles",
+			"Only available <if [Factory] is constructed>",
+			"Only available <in cities with a [Factory]>",
+			"Consumes [1] [Aluminum]"
+		],
+		"promotions": ["Automated"],
+		"attackSound": "jetgun"
+	},
+	{
+		"name": "Reactor",
+                "replaces": "Great General",
+                "uniqueTo": "Reactorland",
+		"unitType": "Civilian",
+		"uniques": [
+			"Can start an [6]-turn golden age",
+			"[+15]% Strength bonus for [Military] units within [2] tiles",
+			"Can construct [Academy]",
+			"Can construct [Settlement]",
+                        "Great Person - [War]",
+			"Unbuildable",
+			"Uncapturable"
+		],
+		"movement": 2
+	}
 ]
