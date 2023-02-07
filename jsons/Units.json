@@ -111,8 +111,8 @@
      {
 		"name": "Armed Delivery Drone",
 		"unitType": "Bomber",
-                "replaces": "Strike Drone",
                 "uniqueTo": "Reactorland",
+                "replaces": "Strike Drone",
 		"movement": 2,
 		"strength": 32,
 		"rangedStrength": 55,
