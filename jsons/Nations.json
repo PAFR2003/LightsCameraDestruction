@@ -25,8 +25,8 @@
             "Starts with [Ecology]",
             "Starts with [Radio]",
             "Starts with [Electronics]",
-            "[+1 Food] from [Tree Plantation] tiles [in all cities]",
-            "[+1 Culture] [in all cities]",
+            "[+1 Food] from [Tree plantation] tiles [in all cities]",
+            "[+1 Culture] [in capital]",
             "[-2 Science] [in all cities] <before discovering [Education]>"
         ],
         "cities": [
