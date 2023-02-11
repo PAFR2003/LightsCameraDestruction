@@ -38,7 +38,7 @@
         ]
     },
     {
-		"name": "Law Firm",
+		"name": "Loot and Destroy all Prisons",
                 "replaces": "Prison Camp",
                 "uniqueTo": "Reactorland",
 		"hurryCostModifier": -25,
