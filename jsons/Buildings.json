@@ -38,18 +38,19 @@
         ]
     },
     {
-		"name": "Loot and Destroy all Prisons",
+		"name": "Destroy Prisons and Loot the Cops",
                 "replaces": "Prison Camp",
                 "uniqueTo": "Reactorland",
 		"hurryCostModifier": -25,
-                "happiness": 1,
+                "happiness": -4,
                 "gold": 1,
 		"cost": 35,
 		"uniques": [
 			"Remove extra unhappiness from annexed cities",
 			"Can only be built [in annexed cities]",                     
 			"Only available <in cities without a [Listening Post]>",
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured",
+                        "[+1] population [in this city]"
 		],
 		"requiredTech": "Construction"
 	},
@@ -94,8 +95,7 @@
 			"[+1 Culture] per [10] population [in this city]",
 			"[-25]% Culture cost of natural border growth [in this city]",
 			"[-25]% Gold cost of acquiring tiles [in this city]",
-			"[+1 Happiness, +2 Gold] [in this city]",
-                        "[+1] population [in this city]"
+			"[+1 Happiness, +2 Gold] [in this city]"
 		],
 		"hurryCostModifier": 25,
 		"requiredTech": "Civil Service"
