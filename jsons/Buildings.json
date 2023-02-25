@@ -12,7 +12,6 @@
             "[+1 Science] [in capital]",
             "[+1 Faith] [in all cities]",
             "[2] free [Worker] units appear",
-            "[+1 Happiness] [in all cities]",
             "Gain a free [Reaction Video Company] [in this city]"
         ],
 		"quote": "Ani: Hello there people, this is RTS Reactorland first day of broadcast signing on here in the wasteland. Over!",
@@ -27,8 +26,7 @@
         "name": "Connection Tower",
         "replaces": "Monument",
         "uniqueTo": "Reactorland",
-        "culture": 3,
-        "happiness": 1,
+        "culture": 4,
         "cost": 38,
         "hurryCostModifier": 38,
         "uniques": [
@@ -53,8 +51,8 @@
 		"name": "The People's Voices",
 		"replaces": "Stadium",
 		"uniqueTo": "Reactorland",
-		"happiness": 4,
-		"culture": 1,
+		"happiness": 3,
+		"culture": 2,
 		"maintenance": 2,
 		"requiredTech": "Social Engineering"
 	},
