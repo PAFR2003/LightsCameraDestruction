@@ -1,4 +1,4 @@
 # README for Reactorland
-This is Reactorland, a civilization based from FBE Reactors for DeCiv mod.
+This is Reactorland, a civilization based on reaction video people in YouTube for DeCiv.
 
 ...
