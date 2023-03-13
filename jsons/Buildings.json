@@ -98,35 +98,6 @@
 		"requiredTech": "Computers"
 	},
 	{
-		"name": "Art Machine",
-                "uniqueTo": "Reactorland",
-                "happiness": 1,
-                "gold": 1,
-                "maintenance": 2,
-                "uniques": [
-			"Consumes [1] [Power]",
-                        "[+5]% [Happiness] [in this city]",
-			"Only available <in cities with a [Reaction Video Company]>",
-                        "Only available <in cities without a [Chatterbot House]>"
-		],
-		"requiredTech": "Artificial Intelligence",
-	},
-	{
-		"name": "Chatterbot House",
-                "uniqueTo": "Reactorland",
-                "happiness": 2,
-                "faith": 1,
-                "gold": -1,
-                "maintenance": 1,
-                "uniques": [
-			"Consumes [1] [Power]",
-                        "[+10]% growth [in all cities]",
-			"Only available <in cities with a [Reaction Video Company]>",
-                        "Only available <in cities without a [Art Machine]>"
-		],
-		"requiredTech": "Artificial Intelligence",
-	},
-	{
 		"name": "Open Source Committee",
                 "uniqueTo": "Reactorland",
                 "replaces": "Congress",
