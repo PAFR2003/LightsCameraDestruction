@@ -29,7 +29,7 @@
       "uniqueTo": "Reactorland",
       "replaces": "Spearman",
       "movement": 2,
-      "strength": 29,
+      "strength": 24,
       "cost": 43,
       "upgradesTo": "Militia",
       "hurryCostModifier": 15,
