@@ -26,7 +26,7 @@
         "name": "Connection Tower",
         "replaces": "Monument",
         "uniqueTo": "Reactorland",
-        "culture": 4,
+        "culture": 3,
         "cost": 38,
         "hurryCostModifier": 38,
         "uniques": [
@@ -39,8 +39,8 @@
 		"name": "Production Truck Camp",
 		"replaces": "Broadcast Tower",
 		"uniqueTo": "Reactorland",
-		"happiness": 3,
-                "culture": 2,
+		"happiness": 2,
+                "culture": 1,
 		"specialistSlots": { "Administrator": 2 },
 		"percentStatBonus": { "culture": 30 },
 		"uniques": ["Consumes [1] [Power]"],
@@ -52,7 +52,7 @@
 		"replaces": "Stadium",
 		"uniqueTo": "Reactorland",
 		"happiness": 3,
-		"culture": 2,
+		"culture": 1,
 		"maintenance": 2,
 		"requiredTech": "Social Engineering"
 	},
@@ -88,7 +88,7 @@
 		"percentStatBonus": { "production": -5 },
 		"production": -1,
 		"culture": 2,
-                "gold": 2,
+                "gold": 1,
 		"uniques": [
 			"Provides [1] [Data]",
 			"Consumes [1] [Power]",
