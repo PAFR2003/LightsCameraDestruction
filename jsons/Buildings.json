@@ -48,7 +48,7 @@
 		"requiredTech": "Radio"
 	},
         {
-		"name": "The People's Voices",
+		"name": "Debate-Reaction Center",
 		"replaces": "Stadium",
 		"uniqueTo": "Reactorland",
 		"happiness": 3,
