@@ -31,7 +31,6 @@
         "hurryCostModifier": 38,
         "uniques": [
             "Consumes [1] [Power]",
-            "Can only be built [in all cities connected to capital]",
             "Destroyed when the city is captured"
         ]
     },
