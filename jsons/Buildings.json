@@ -31,6 +31,7 @@
         "hurryCostModifier": 38,
         "uniques": [
             "Consumes [1] [Power]",
+            "Can only be built [in all cities connected to capital]",
             "Destroyed when the city is captured"
         ]
     },
@@ -95,38 +96,5 @@
 			"[+10]% [Happiness] [in this city]"
 		],
 		"requiredTech": "Computers"
-	},
-	{
-		"name": "Open Source Committee",
-                "uniqueTo": "Reactorland",
-                "replaces": "Congress",
-		"cost": 100,
-		"requiredTech": "Civil Service",
-		"uniques": [
-			"[+1 Culture, +1 Science] per [15] population [in all cities]",
-                        "[-33]% [Gold] from every [Reaction Video Company]",
-			"[-5]% Unhappiness from [Population] [in all cities]",
-			"Only available <if [Search for Survivors] is constructed>",
-			"Can only be built [in capital]",
-			"Only available <in cities without a [Copyright Party]>",
-			"Destroyed when the city is captured"
-		]
-	},
-	{
-		"name": "Copyright Party",
-                "uniqueTo": "Reactorland",
-                "replaces": "Council",
-		"cost": 50,
-		"requiredTech": "Civil Service",
-		"uniques": [
-			"[-1 Culture] per [10] population [in all cities]",
-                        "[+33]% [Gold] from every [Reaction Video Company]",
-                        "[+10]% growth [in all cities]",
-			"[+5]% Production when constructing [All] buildings [in this city]",
-			"Only available <if [Search for Survivors] is constructed>",
-			"Can only be built [in capital]",
-			"Only available <in cities without a [Open Source Committee]>",
-			"Destroyed when the city is captured"
-		]
 	}
 ]
