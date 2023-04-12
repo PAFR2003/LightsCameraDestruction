@@ -27,8 +27,8 @@
         "replaces": "Monument",
         "uniqueTo": "Reactorland",
         "culture": 3,
-        "cost": 38,
-        "hurryCostModifier": 38,
+        "cost": 43,
+        "hurryCostModifier": 40,
         "uniques": [
             "Consumes [1] [Power]",
             "Can only be built [in all cities connected to capital]",
@@ -73,8 +73,7 @@
 		"specialistSlots": { "Administrator": 1 },
 		"maintenance": 2,
 		"uniques": [
-			"[+1 Culture] per [10] population [in this city]",
-			"[-25]% Culture cost of natural border growth [in this city]",
+			"[-20]% Culture cost of natural border growth [in this city]",
 			"[-25]% Gold cost of acquiring tiles [in this city]",
 			"[+1 Happiness, +2 Gold] [in this city]"
 		],
@@ -93,7 +92,7 @@
 			"Provides [1] [Data]",
 			"Consumes [1] [Power]",
 			"Only available <in cities with a [Production Truck Camp]>",
-			"[+10]% [Happiness] [in this city]"
+			"[+5]% [Happiness] [in this city]"
 		],
 		"requiredTech": "Computers"
 	}
