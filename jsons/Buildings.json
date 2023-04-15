@@ -11,7 +11,8 @@
             "[+1 Culture] [in capital]",
             "[+1 Science] [in capital]",
             "[+1 Faith] [in all cities]",
-            "[2] free [Worker] units appear",
+            "[1] free [Worker] units appear",
+            "[1] free [Metal-Wielding Survivor] units appear",
             "Gain a free [Reaction Video Company] [in this city]"
         ],
 		"quote": "Ani: Hello there people, this is RTS Reactorland first day of broadcast signing on here in the wasteland. Over!",
@@ -61,7 +62,6 @@
                 "replaces": "Market",
                 "uniqueTo": "Reactorland",
 		"specialistSlots": { "Merchant": 1 },
-		"happiness": 1,
 		"culture": 1,
                 "requiredTech": "Trade",
                 "uniques": ["[+2 Gold] from [Luxury resource] tiles [in this city]", "Consumes [1] [Power]"]
@@ -73,8 +73,9 @@
 		"specialistSlots": { "Administrator": 1 },
 		"maintenance": 2,
 		"uniques": [
+                        "Provides [2] [Power],
 			"[-20]% Culture cost of natural border growth [in this city]",
-			"[-25]% Gold cost of acquiring tiles [in this city]",
+			"[+10]% Gold cost of acquiring tiles [in this city]",
 			"[+1 Happiness, +2 Gold] [in this city]"
 		],
 		"hurryCostModifier": 25,
@@ -91,8 +92,7 @@
 		"uniques": [
 			"Provides [1] [Data]",
 			"Consumes [1] [Power]",
-			"Only available <in cities with a [Production Truck Camp]>",
-			"[+5]% [Happiness] [in this city]"
+			"Only available <in cities with a [Production Truck Camp]>"
 		],
 		"requiredTech": "Computers"
 	}
