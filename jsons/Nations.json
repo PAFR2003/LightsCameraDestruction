@@ -30,11 +30,11 @@
             "[-2 Science] [in all cities] <before discovering [Education]>"
         ],
            "cities": ["Toritown","Ericstate","Brandonii","Mikaelania","Brooklinstead","Tomphelania",
-            "Liaia", "Finea","Sharonia","Brittany","Madisonia","Raeland","Anahitanni","Dannyland",
-            "Sydney","Shanthill","Taliania","Beauburgia",
-            "Marhlyborough", "Jaykania","Albertona","Jordan Bay","Chelseani", "Jeannieville",
-            "Kennedyia","Vartuhiford", "Megan-Shannonia","Racheltown","Haleyby", "Jaxonfort",
-            "Briannaton", "Alliso-Kelli","Morgania","Aryii","Labibia","Norana","Laineyfort"]   
+            "Liaia", "Finea", "Sharonia", "Brittany", "Madisonia", "Raeland", "Anahitanni", "Dannyland",
+            "Sydney", "Shanthill", "Taliania", "Beauburgia", "Marhlyborough", 
+            "Jaykania", "Albertona", "Jordan Bay", "Chelseani", "Jeannieville",
+            "Kennedyia","Vartuhiford", "Megan-Shannonia", "Racheltown", "Haleyby", "Jaxonfort",
+            "Briannaton", "Alliso-Kelli", "Morgania", "Aryii", "Labibia", "Norana", "Laineyfort"]   
     }
 ]
 
