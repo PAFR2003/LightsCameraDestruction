@@ -1,4 +1,5 @@
 [
+//Reactorland
   {
       "name": "Early Gunner",
       "uniqueTo": "Reactorland",
@@ -40,36 +41,6 @@
       ],
       "promotions": ["Forage"],
       "attackSound": "metalhit"
-    },
-    {
-		"name": "Amazon",
-		"unitType": "Scrapper",
-	    "uniqueTo": "Red Lotus",
-		"replaces": "Spearman",
-		"movement": 3,
-		"strength": 25,
-		"cost": 55,
-		"upgradesTo": "Militia",
-		"hurryCostModifier": 20,
-		"obsoleteTech": "Rifling",
-		"uniques": ["Low Tech", "[+50]% Strength <vs [Mounted] units>"],
-		"attackSound": "nonmetalhit"
-	},
-	{
-		"name": "Gargarean",
-		"unitType": "Scrapper",
-		"uniqueTo": "Red Lotus",
-		"replaces": "Militia",
-		"movement": 2,
-		"strength": 38,
-		"interceptRange": 1,
-		"cost": 60,
-		"requiredTech": "The Wheel",
-		"obsoleteTech": "Replaceable Parts",
-		"upgradesTo": "Soldier",
-		"uniques": ["Personnel", "Consumes [1] [Weapons]"],
-		"hurryCostModifier": 20,
-		"attackSound": "machinegun"
     },	
     {
       "name": "Titanium Zeppelin",
@@ -110,5 +81,36 @@
 			"Uncapturable"
 		],
 		"movement": 2
-	}
+    },
+//Red Lotus
+    {
+		"name": "Amazon",
+		"unitType": "Scrapper",
+	    "uniqueTo": "Red Lotus",
+		"replaces": "Spearman",
+		"movement": 3,
+		"strength": 25,
+		"cost": 55,
+		"upgradesTo": "Militia",
+		"hurryCostModifier": 20,
+		"obsoleteTech": "Rifling",
+		"uniques": ["Low Tech", "[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Gargarean",
+		"unitType": "Scrapper",
+		"uniqueTo": "Red Lotus",
+		"replaces": "Militia",
+		"movement": 2,
+		"strength": 38,
+		"interceptRange": 1,
+		"cost": 60,
+		"requiredTech": "The Wheel",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Soldier",
+		"uniques": ["Personnel", "Consumes [1] [Weapons]"],
+		"hurryCostModifier": 20,
+		"attackSound": "machinegun"
+    },	
 ]
