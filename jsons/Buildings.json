@@ -22,6 +22,25 @@
 			}
 		]	
     },
+    {
+        "name": "Red Lotus Society HQ",
+        "isWonder": true,
+        "uniqueTo": "Red Lotus",
+        "cost": 1,
+        "uniques": [
+            "Provides [1] [Power]",
+            "Can only be built [in capital]",
+            "[1] free [Amazon] units appear",
+            "[1] free [Gargarean] units appear",
+            "Gain a free [Library] [in this city]"
+        ],
+		"quote": "Elites of Red Lotus Society: Welcome!",
+		"civilopediaText": [
+			{
+				"text": "Elites of Red Lotus Society: Welcome!"
+			}
+		]	
+    },
    // Normal Uniques
     {
         "name": "Connection Tower",
