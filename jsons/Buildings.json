@@ -25,7 +25,7 @@
     {
         "name": "Red Lotus Society HQ",
         "isWonder": true,
-        "uniqueTo": "Red Lotus",
+        "uniqueTo": "Red Lotus Society",
         "cost": 1,
         "uniques": [
             "Provides [1] [Power]",
@@ -117,7 +117,7 @@
 	},
 	{
 		"name": "School of Human Values",
-	        "uniqueTo": "Red Lotus",
+	        "uniqueTo": "Red Lotus Society",
 		"replaces": "University",
 		"maintenance": 1,
                 "culture": 1,		
@@ -136,7 +136,7 @@
 	},
 	{
 		"name": "Paradise Dome",
-	        "uniqueTo": "Red Lotus",
+	        "uniqueTo": "Red Lotus Society",
                 "replaces": "Stadium",
 		"happiness": 2,
 		"food": 2,
