@@ -1,5 +1,6 @@
 [
 //Reactorland
+  
   {
       "name": "Early Gunner",
       "uniqueTo": "Reactorland",
@@ -82,11 +83,13 @@
 		],
 		"movement": 2
     },
+
 //Red Lotus
-    {
+    
+        {
 		"name": "Amazon",
 		"unitType": "Scrapper",
-	    "uniqueTo": "Red Lotus",
+	        "uniqueTo": "Red Lotus",
 		"replaces": "Spearman",
 		"movement": 3,
 		"strength": 25,
@@ -112,5 +115,42 @@
 		"uniques": ["Personnel", "Consumes [1] [Weapons]"],
 		"hurryCostModifier": 20,
 		"attackSound": "machinegun"
-    },	
+        },	
+	{
+		"name": "Winged Hussar",
+		"unitType": "Mounted",
+		"uniqueTo": "Red Lotus",
+		"replaces": "Hussar",
+		"movement": 5,
+		"strength": 32,
+		"interceptRange": 1,
+		"cost": 70,
+		"requiredTech": "Redomestication",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Cavalry",
+		"uniques": [
+			"Personnel",
+			"No defensive terrain bonus",
+			"Can move after attacking",
+			"[-66]% Strength <vs cities> <when attacking>",
+			"Only available <in cities with a [Stable]>"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Gunned Warrior",
+		"unitType": "Scrapper",
+		"uniqueTo": "Red Lotus",
+		"replaces": "Soldier",
+		"movement": 2,
+		"strength": 42,
+		"interceptRange": 1,
+		"cost": 125,
+		"upgradesTo": "Infantry",
+		"hurryCostModifier": 20,
+		"requiredTech": "Rifling",
+		"uniques": ["Personnel"],
+		"attackSound": "machinegun"
+	}
 ]
