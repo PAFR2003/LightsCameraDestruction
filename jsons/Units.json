@@ -89,7 +89,7 @@
         {
 		"name": "Amazon",
 		"unitType": "Scrapper",
-	        "uniqueTo": "Red Lotus",
+	        "uniqueTo": "Red Lotus Society",
 		"replaces": "Spearman",
 		"movement": 3,
 		"strength": 25,
@@ -103,7 +103,7 @@
 	{
 		"name": "Gargarean",
 		"unitType": "Scrapper",
-		"uniqueTo": "Red Lotus",
+		"uniqueTo": "Red Lotus Society",
 		"replaces": "Militia",
 		"movement": 2,
 		"strength": 38,
@@ -119,7 +119,7 @@
 	{
 		"name": "Winged Hussar",
 		"unitType": "Mounted",
-		"uniqueTo": "Red Lotus",
+		"uniqueTo": "Red Lotus Society",
 		"replaces": "Hussar",
 		"movement": 5,
 		"strength": 32,
@@ -141,7 +141,7 @@
 	{
 		"name": "Gunned Warrior",
 		"unitType": "Scrapper",
-		"uniqueTo": "Red Lotus",
+		"uniqueTo": "Red Lotus Society",
 		"replaces": "Soldier",
 		"movement": 2,
 		"strength": 42,
