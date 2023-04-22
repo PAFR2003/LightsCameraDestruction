@@ -38,7 +38,7 @@
     },
     //Red Lotus
     {
-        "name": "Red Lotus",
+        "name": "Red Lotus Society",
         "leaderName": "Leon Anderson",
         "adjective": ["Red Lightspeople"],
         "startBias": ["Coast"],
@@ -57,7 +57,7 @@
 
         "outerColor": [74, 7, 118],
         "innerColor": [250, 243, 244],
-        "uniqueName": "Hantzisean Principles",
+        "uniqueName": "Principles of Hantzis",
         "uniques": [ "[+10]% growth [in all cities]",
                     "[+1 Science] [in all cities]",
                     "When conquering an encampment, earn [90] Gold and recruit a Barbarian unit <with [10]% chance>" 
