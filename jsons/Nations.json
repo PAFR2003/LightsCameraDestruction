@@ -34,7 +34,19 @@
             "Sydney", "Shanthill", "Taliania", "Beauburgia", "Marhlyborough", 
             "Jaykania", "Albertona", "Jordan Bay", "Chelseani", "Jeannieville",
             "Kennedyia","Vartuhiford", "Megan-Shannonia", "Racheltown", "Haleyby", "Jaxonfort",
-            "Briannaton", "Alliso-Kelli", "Morgania", "Aryii", "Labibia", "Norana", "Laineyfort"]   
+            "Briannaton", "Alliso-Kelli", "Morgania", "Aryii", "Labibia", "Norana", "Laineyfort"],
+	"spyNames": [
+			"Tom",
+			"Eric",
+			"Jonathan",
+			"Shant",
+			"Troy",
+			"Tori",
+			"Mikaela",
+			"Brooklin",
+			"Chelsea",
+			"Lia"
+	]   
     },
     //Red Lotus
     {
@@ -65,7 +77,19 @@
                   ],
         "cities": ["City of Lotus","Chrysanthemum","Bluebell","Azalea","Lavender","Petunia",
             "Sakura", "Marigold","Begonia","Aster","Daisy","Iris","Hydrangea","Bougainvillea",
-            "Zinnia","Geranium","Lily","Hibiscus", "Peony", "Tulip"]
+            "Zinnia","Geranium","Lily","Hibiscus", "Peony", "Tulip"],
+	"spyNames": [
+			"Johnny",
+			"Jordi",
+			"Frankie",
+			"Kieran",
+			"Charles",
+			"Sasha",
+			"Mia",
+			"Riley",
+			"Sunny",
+			"Brandi"
+	]
     }
 ]
 
