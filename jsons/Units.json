@@ -1,88 +1,86 @@
 [
 //Reactorland
-  
-  {
-      "name": "Early Gunner",
-      "uniqueTo": "Reactorland",
-      "replaces": "Gunman",        
-      "unitType": "Shooter",
-      "cost": 65,
-      "movement": 2,
-      "strength": 35,
-      "rangedStrength": 20,
-      "range": 1,
-      "interceptRange": 1,
-      "requiredTech": "The Wheel",
-      "obsoleteTech": "Rifling",
-      "upgradesTo": "Rifleman",
-      "hurryCostModifier": 20,
-      "uniques": [
-           "Low Tech",
-           "All adjacent units heal [+5] HP when healing",
-           "Consumes [1] [Coal]",
-           "[+1] Sight"
+	{
+		"name": "Early Gunner",
+		"uniqueTo": "Reactorland",
+		"replaces": "Gunman",        
+		"unitType": "Shooter",
+		"cost": 65,
+		"movement": 2,
+		"strength": 35,
+		"rangedStrength": 20,
+		"range": 1,
+		"interceptRange": 1,
+		"requiredTech": "The Wheel",
+		"obsoleteTech": "Rifling",
+		"upgradesTo": "Rifleman",
+		"hurryCostModifier": 20,
+		"uniques": [
+			"Low Tech",
+			"All adjacent units heal [+5] HP when healing",
+			"Consumes [1] [Coal]",
+			"[+1] Sight"
+		],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Metal-Wielding Survivors",
+		"unitType": "Scrapper",
+		"uniqueTo": "Reactorland",
+		"replaces": "Spearman",
+		"movement": 2,
+		"strength": 24,
+		"cost": 54,
+		"upgradesTo": "Militia",
+		"hurryCostModifier": 15,
+		"obsoleteTech": "Rifling",
+		"uniques": [
+			"Low Tech",
+			"[+25]% Strength <vs [Low Tech] units>"
+		],
+		"promotions": ["Forage"],
+		"attackSound": "metalhit"
+	},	
+	{
+		"name": "Titanium Zeppelin",
+		"unitType": "Helicopter",
+		"uniqueTo": "Reactorland",
+		"replaces": "Blimp",
+		"range": 1,
+		"interceptRange": 1,
+		"movement": 5,
+		"strength": 17,
+		"rangedStrength": 22,
+		"cost": 108,
+		"requiredTech": "Steel",
+		"obsoleteTech": "Gyroscopes",
+		"upgradesTo": "Helicopter",
+		"uniques": [
+			"[-25]% Strength <vs [Armor] units>",
+	        	"Can move after attacking",
+			"[+25]% Strength <vs cities> <when attacking>",
+			"May withdraw before melee ([20]%)",
+			"Never appears as a Barbarian unit"
       ],
-        "attackSound": "shot"
-
-   },
-   {
-      "name": "Metal-Wielding Survivors",
-      "unitType": "Scrapper",
-      "uniqueTo": "Reactorland",
-      "replaces": "Spearman",
-      "movement": 2,
-      "strength": 24,
-      "cost": 54,
-      "upgradesTo": "Militia",
-      "hurryCostModifier": 15,
-      "obsoleteTech": "Rifling",
-      "uniques": [
-          "Low Tech",
-          "[+25]% Strength <vs [Low Tech] units>"
-      ],
-      "promotions": ["Forage"],
-      "attackSound": "metalhit"
-    },	
-    {
-      "name": "Titanium Zeppelin",
-      "unitType": "Helicopter",
-      "uniqueTo": "Reactorland",
-      "replaces": "Blimp",
-      "range": 1,
-      "interceptRange": 1,
-      "movement": 5,
-      "strength": 17,
-      "rangedStrength": 22,
-      "cost": 108,
-      "requiredTech": "Steel",
-      "obsoleteTech": "Gyroscopes",
-      "upgradesTo": "Helicopter",
-      "uniques": [
-		"[-25]% Strength <vs [Armor] units>",
-	        "Can move after attacking",
-		"[+25]% Strength <vs cities> <when attacking>",
-		"May withdraw before melee ([20]%)",
-		"Never appears as a Barbarian unit"
-      ],
-      "hurryCostModifier": 17,
-      "attackSound": "shot"
-    },
-    {
+		"hurryCostModifier": 17,
+		"attackSound": "shot"
+	},
+	{
 		"name": "Opinionspeople",
                 "replaces": "Great General",
                 "uniqueTo": "Reactorland",
 		"unitType": "Civilian",
 		"uniques": [
-			"Can start an [6]-turn golden age",
+			"Empire enters a [6]-turn Golden Age <by consuming this unit>",
 			"[+15]% Strength bonus for [Military] units within [2] tiles",
-			"Can construct [Academy]",
-			"Can construct [Settlement]",
-                        "Great Person - [War]",
+			"Can instantly construct a [Academy] improvement <by consuming this unit>",
+			"Can instantly construct a [Settlement] improvement <by consuming this unit>",
+                        "Is part of Great Person group [War]",
 			"Unbuildable",
 			"Uncapturable"
 		],
 		"movement": 2
-    },
+	},
 
 //Red Lotus
     
