@@ -19,3 +19,4 @@ Discord:
 
 Bamboolord for asking this mod to be sent to GH and atlas and game.png file rendering
 ZaboTheGreat for balancing and ideas
+the s is silent for fixing some old codes
