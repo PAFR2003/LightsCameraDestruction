@@ -150,5 +150,26 @@
 		"requiredTech": "Rifling",
 		"uniques": ["Personnel"],
 		"attackSound": "machinegun"
+	},
+	{
+		"name": "Black Taxi",
+		"unitType": "Armor",
+		"uniqueTo": "Red Lotus Society",
+		"replaces": "Attack Vehicle",
+		"movement": 3,
+		"strength": 35,
+		"cost": 70,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Armored Car",
+		"obsoleteTech": "Replaceable Parts",
+		"uniques": [
+			"[+25]% Strength <vs [Low Tech] units>",
+			"[-10]% Strength <vs cities> <when attacking>",
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Consumes [1] [Oil]"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "tankshot"
 	}
 ]
