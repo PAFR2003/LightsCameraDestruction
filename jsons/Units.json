@@ -169,6 +169,7 @@
 			"No defensive terrain bonus",
 			"Consumes [1] [Oil]"
 		],
+		"promotions": ["Loose Formation"],
 		"hurryCostModifier": 20,
 		"attackSound": "tankshot"
 	}
