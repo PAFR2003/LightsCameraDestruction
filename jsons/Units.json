@@ -152,7 +152,7 @@
 		"attackSound": "machinegun"
 	},
 	{
-		"name": "Black Taxi",
+		"name": "Weaponized Taxi",
 		"unitType": "Armor",
 		"uniqueTo": "Red Lotus Society",
 		"replaces": "Attack Vehicle",
