@@ -127,7 +127,10 @@
 			"[+1 Science] from [Farm] tiles [in this city]",
 			"[+1 Science] from [Tree Plantation] tiles [in this city]",
 			"[+1 Science] from [Grassland] tiles [in this city]",
-			"[+1 Science] from [Oasis] tiles [in this city]",
+			"[+1 Science] from [Nature preserve] tiles [in this city]",
+			"[+1 Science] from [Terrace farm] tiles [in this city]",
+			"[+1 Science] from [Bioculture] tiles [in this city]",
+			"[+2 Science] from [Oasis] tiles [in this city]",
 			"[+1 Science] [in this city] <with [Power]>",
 			"Only available <in cities with a [Library]>"
 		],
