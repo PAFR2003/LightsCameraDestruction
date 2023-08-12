@@ -117,6 +117,8 @@
 	},
 	{
 		"name": "School of Stewardship",
+		"uniqueTo": "Reactorland",
+		"replaces": "University",
 		"maintenance": 1,
 		"hurryCostModifier": 15,
 		"percentStatBonus": { "science": 33 },
@@ -125,6 +127,7 @@
 			"[+1 Science] from [Farm] tiles [in this city]",
 			"[+1 Science] from [Tree Plantation] tiles [in this city]",
 			"[+1 Science] from [Grassland] tiles [in this city]",
+			"[+1 Science] from [Oasis] tiles [in this city]",
 			"[+1 Science] [in this city] <with [Power]>",
 			"Only available <in cities with a [Library]>"
 		],
