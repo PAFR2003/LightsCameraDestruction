@@ -126,8 +126,8 @@
 		"uniques": [
 			"[+1 Science] from [Farm] tiles [in this city]",
 			"[+1 Science] from [Tree plantation] tiles [in this city]",
-			"[+1 Science] from [Grassland] tiles [in this city]",
-			"[+1 Science] from [Nature preserve] tiles [in this city]",
+			"[+1 Science, +1 Happiness] from [Grassland] tiles [in this city]",
+			"[+1 Science, +1 Happiness] from [Nature preserve] tiles [in this city]",
 			"[+1 Science] from [Terrace farm] tiles [in this city]",
 			"[+1 Science] from [Bioculture] tiles [in this city]",
 			"[+1 Science] from [Artificial oasis] tiles [in this city]",
