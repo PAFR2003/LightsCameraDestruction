@@ -63,7 +63,7 @@
                 "culture": 1,
 		"specialistSlots": { "Administrator": 2 },
 		"percentStatBonus": { "culture": 30 },
-		"uniques": ["Consumes [1] [Power]"],
+		"uniques": ["Provides [2] [Power]"],
 		// "maintenance": 3,
 		"requiredTech": "Radio"
 	},
