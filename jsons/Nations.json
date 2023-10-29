@@ -26,7 +26,6 @@
             "Starts with [Radio]",
             "Starts with [Electronics]",
             "[+1 Food] from [Tree plantation] tiles [in all cities]",
-            "[+1 Culture] [in capital]",
             "[-2 Science] [in all cities] <before discovering [Education]>"
         ],
            "cities": ["Toritown","Ericstate","Brandonii","Mikaelania","Brooklinstead","Tomphelania",
