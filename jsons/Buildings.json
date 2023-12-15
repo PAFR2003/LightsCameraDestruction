@@ -136,6 +136,20 @@
 		],
 		"requiredTech": "Education"
 	},
+    {
+        "name": "Cyprinid Farm",
+        "uniqueTo": "Reactorland",
+        "food": 1,
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+        "percentStatBonus": {"food": 10},
+        "uniques": [
+            "[+1 Food] from [Lakes] tiles [in this city]",
+            "[+1 Food] from [River] tiles [in this city]",
+            "[+3 Food] from [Oasis] tiles [in this city]"
+        ],
+        "requiredTech": "Land Remediation"
+    },
 	{
 		"name": "School of Human Values",
 	        "uniqueTo": "Red Lotus Society",
