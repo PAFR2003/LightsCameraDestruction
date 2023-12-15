@@ -146,6 +146,7 @@
         "uniques": [
             "[+1 Food] from [Lakes] tiles [in this city]",
             "[+1 Food] from [River] tiles [in this city]",
+            "[+2 Food] from [Artificial Oasis] tiles [in this city]",
             "[+3 Food] from [Oasis] tiles [in this city]"
         ],
         "requiredTech": "Land Remediation"
