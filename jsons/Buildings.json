@@ -7,12 +7,12 @@
         "cost": 1,
         "uniques": [
             "Provides [5] [Power]",
-            "Can only be built [in capital]",
+            "Can only be built <in [Capital] cities>",
             "[+1 Culture] [in capital]",
             "[+1 Science] [in capital]",
             "[+1 Faith] [in all cities]",
-            "[1] free [Worker] units appear",
-            "[1] free [Metal-Wielding Survivors] units appear",
+            "Free [Worker] appears",
+            "Free [Metal-Wielding Survivors] appears",
             "Gain a free [Reaction Video Company] [in this city]"
         ],
 		"quote": "Ani: Hello there people, this is RTS Reactorland first day of broadcast signing on here in the wasteland. Over!",
@@ -29,9 +29,9 @@
         "cost": 1,
         "uniques": [
             "Provides [1] [Power]",
-            "Can only be built [in capital]",
-            "[1] free [Amazon] units appear",
-            "[1] free [Gargarean] units appear",
+            "Can only be built <in [Capital] cities>",
+            "Free [Amazon] appears",
+            "Free [Gargarean] appears",
             "Gain a free [Library] [in this city]"
         ],
 		"quote": "Elites of Red Lotus Society: Welcome!",
@@ -51,7 +51,7 @@
         "hurryCostModifier": 40,
         "uniques": [
             "Consumes [1] [Power]",
-            "Can only be built [in all cities connected to capital]",
+            "Can only be built <in [in all cities connected to capital] cities>",
             "Destroyed when the city is captured"
         ]
     },
@@ -60,7 +60,7 @@
 		"replaces": "Broadcast Tower",
 		"uniqueTo": "Reactorland",
 		"happiness": 2,
-                "culture": 1,
+		"culture": 1,
 		"specialistSlots": { "Administrator": 2 },
 		"percentStatBonus": { "culture": 30 },
 		"uniques": ["Provides [2] [Power]"],
@@ -78,21 +78,21 @@
 	},
 	{
 		"name": "Channel 10",
-                "replaces": "Market",
-                "uniqueTo": "Reactorland",
+		"replaces": "Market",
+		"uniqueTo": "Reactorland",
 		"specialistSlots": { "Merchant": 1 },
 		"culture": 1,
-                "requiredTech": "Trade",
-                "uniques": ["[+2 Gold] from [Luxury resource] tiles [in this city]", "Consumes [1] [Power]"]
+		"requiredTech": "Trade",
+		"uniques": ["[+2 Gold] from [Luxury resource] tiles [in this city]", "Consumes [1] [Power]"]
 	},
-        {
+	{
 		"name": "Talent Agency",
 		"replaces": "Town Hall",
-                "uniqueTo": "Reactorland",
+		"uniqueTo": "Reactorland",
 		"specialistSlots": { "Administrator": 1 },
 		"maintenance": 2,
 		"uniques": [
-                        "Provides [2] [Power]",
+			"Provides [2] [Power]",
 			"[-20]% Culture cost of natural border growth [in this city]",
 			"[+10]% Gold cost of acquiring tiles [in this city]",
 			"[+1 Happiness, +2 Gold] [in this city]"
@@ -107,7 +107,7 @@
 		"percentStatBonus": { "production": -5 },
 		"production": -1,
 		"culture": 2,
-                "gold": 1,
+		"gold": 1,
 		"uniques": [
 			"Provides [1] [Data]",
 			"Consumes [1] [Power]",
@@ -153,11 +153,11 @@
     },
 	{
 		"name": "School of Human Values",
-	        "uniqueTo": "Red Lotus Society",
+		"uniqueTo": "Red Lotus Society",
 		"replaces": "University",
 		"maintenance": 1,
-                "culture": 1,		
-                "happiness": 1,
+		"culture": 1,
+		"happiness": 1,
 		"hurryCostModifier": 15,
 		"percentStatBonus": { "science": 33 },
 		"specialistSlots": { "Scientist": 1 },
@@ -172,8 +172,8 @@
 	},
 	{
 		"name": "Paradise Dome",
-	        "uniqueTo": "Red Lotus Society",
-                "replaces": "Stadium",
+		"uniqueTo": "Red Lotus Society",
+		"replaces": "Stadium",
 		"happiness": 2,
 		"food": 2,
 		"maintenance": 1,
