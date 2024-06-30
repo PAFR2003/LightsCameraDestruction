@@ -6,6 +6,7 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Reactorism",
+		"personality": "Glendelian",
 
 		"startIntroPart1": "Welcome to Wasteland Reaction Studios, wasteland's largest television and online streaming broadcasting network. WRS makes countless content and shows since the year 2350, we make many of the top shows such as our world famous reaction video show called The People's Voices. Created by over 150,000 staff members who made the show possible, 10,000 on-screen talents all around Reactorland and over 5 billion viewers every year broadcasted via satellite and the tallest tower in the world, Reactor Tower located in the largest and capital city of Reactorland, Toritown. The People's Voices has been localized to over 189 countries all around the wasteland, our show's premise is to hear what our people's reaction and their opinions on what is happening and what is viral, not just locally but internationally. Be ready to laugh and get emotional to things around the world only in the world's most watched TV show, The People's Voices!",
 		"startIntroPart2": "Watch The People's Voices, 16:00 - 21:00 only here in RTS Reactorland... (Sponsored by WRS and the President's Office of Reactorland)",
@@ -24,7 +25,6 @@
 			"Starts with [Secrets of the Past]",
 			"Starts with [Ecology]",
 			"Starts with [Radio]",
-			"Starts with [Electronics]",
 			"[+1 Food] from [Tree plantation] tiles [in all cities]",
 			"[-2 Science] [in all cities] <before discovering [Education]>"
 		],
@@ -55,6 +55,7 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Existentialism",
+		"personality": "Anderson",
 
 		"startIntroPart1": "Hello, people of Red Lotus, I'm Leon Anderson and welcome to our promised land, the land of eternal pleasures, the nation of Red Lotus.",
 		"startIntroPart2": "Before the bombs fell, our people did a lot of things that is very taboo to the pre-nuclear society. Today, my people will change our bad and dirty reputation into a new and meaningful one. We are going to build towns that helps the people, build a society that makes sense and maintain the nation that lasts the test of time. So let's throw out our old dirty habits into making a new world. Wake up, enslaved talents!",
