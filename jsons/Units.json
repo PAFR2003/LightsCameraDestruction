@@ -57,25 +57,26 @@
 		"upgradesTo": "Helicopter",
 		"uniques": [
 			"[-25]% Strength <vs [Armor] units>",
-	        	"Can move after attacking",
+			"Can move after attacking",
 			"[+25]% Strength <vs cities> <when attacking>",
 			"May withdraw before melee ([20]%)",
 			"Never appears as a Barbarian unit"
-      ],
+		],
 		"hurryCostModifier": 17,
 		"attackSound": "shot"
 	},
 	{
 		"name": "Opinionspeople",
-                "replaces": "Great General",
-                "uniqueTo": "Reactorland",
+		"replaces": "Great General",
+		"uniqueTo": "Reactorland",
 		"unitType": "Civilian",
 		"uniques": [
 			"Empire enters a [6]-turn Golden Age <by consuming this unit>",
 			"[+15]% Strength bonus for [Military] units within [2] tiles",
 			"Can instantly construct a [Academy] improvement <by consuming this unit>",
 			"Can instantly construct a [Settlement] improvement <by consuming this unit>",
-                        "Is part of Great Person group [War]",
+			"Can be earned through combat",
+			"Great Person - [War]",
 			"Unbuildable",
 			"Uncapturable"
 		],
@@ -83,11 +84,10 @@
 	},
 
 //Red Lotus
-    
-        {
+	{
 		"name": "Amazon",
 		"unitType": "Scrapper",
-	        "uniqueTo": "Red Lotus Society",
+		"uniqueTo": "Red Lotus Society",
 		"replaces": "Spearman",
 		"movement": 3,
 		"strength": 25,
@@ -113,7 +113,7 @@
 		"uniques": ["Personnel", "Consumes [1] [Weapons]"],
 		"hurryCostModifier": 20,
 		"attackSound": "machinegun"
-        },	
+	},	
 	{
 		"name": "Winged Hussar",
 		"unitType": "Mounted",
