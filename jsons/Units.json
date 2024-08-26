@@ -59,7 +59,7 @@
 			"[-25]% Strength <vs [Armor] units>",
 			"Can move after attacking",
 			"[+25]% Strength <vs cities> <when attacking>",
-			"Withdraws before melee combat <with [20]% chance>"",
+			"Withdraws before melee combat <with [20]% chance>",
 			"Never appears as a Barbarian unit"
 		],
 		"hurryCostModifier": 17,
