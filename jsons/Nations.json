@@ -25,7 +25,7 @@
 			"Starts with [Secrets of the Past]",
 			"Starts with [Ecology]",
 			"Starts with [Radio]",
-			"[+1 Food, +1 Gold] from [Tree plantation] tiles [in all cities]",
+			"[+1 Food] from [Tree plantation] tiles [in all cities]",
 			"[-2 Science] [in all cities] <before discovering [Education]>"
 		],
 		"cities": ["Toritown", "Ericstate", "Brandonii", "Mikaelania", "Brooklinstead", "Tomphelania", "Liaia", "Finea",
