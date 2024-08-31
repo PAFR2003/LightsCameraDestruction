@@ -1,75 +1,96 @@
 
 game.png
-size: 2048, 256
+size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Channel 10
   rotate: false
-  xy: 4, 4
+  xy: 4, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Connection Tower
   rotate: false
-  xy: 212, 4
+  xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Production Truck Camp
   rotate: false
-  xy: 836, 4
+  xy: 420, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Reactor Tower
   rotate: false
-  xy: 1044, 4
+  xy: 420, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Talent Agency
   rotate: false
-  xy: 1252, 4
+  xy: 628, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/The People's Voices
   rotate: false
-  xy: 1460, 4
+  xy: 628, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Reactorland
   rotate: false
-  xy: 1876, 104
+  xy: 1152, 312
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Red Lotus Society
+  rotate: false
+  xy: 1260, 312
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Existentialism
+  rotate: false
+  xy: 836, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Reactorism
+  rotate: false
+  xy: 1044, 312
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Early Gunner
   rotate: false
-  xy: 420, 4
+  xy: 212, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Metal-Wielding Survivors
   rotate: false
-  xy: 628, 4
+  xy: 212, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Titanium Zeppelin
   rotate: false
-  xy: 1668, 4
+  xy: 836, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
