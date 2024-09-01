@@ -115,7 +115,7 @@
 		"attackSound": "machinegun"
 	},	
 	{
-		"name": "Winged Hussar",
+		"name": "Ruiter Lancers",
 		"unitType": "Mounted",
 		"uniqueTo": "Red Lotus Society",
 		"replaces": "Hussar",
