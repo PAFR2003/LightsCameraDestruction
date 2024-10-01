@@ -25,11 +25,9 @@
 			"Supremacy": 0,
 			"Monopoly": 0,
 			"Collectivism": 20,
-			"Rediscovery": 20,
 			"Naturalism": 50,
 			"Mechanization": 0,
-			"Bionics": 0,
-			"Legacy": 0
+			"Bionics": 0
 		}
 	},
 	{
@@ -58,11 +56,9 @@
 			"Supremacy": 20,
 			"Monopoly": 20,
 			"Collectivism": 0,
-			"Rediscovery": 20,
 			"Naturalism": 0,
 			"Mechanization": 0,
-			"Bionics": 40,
-			"Legacy": 0
-		},
+			"Bionics": 40
+		}
 	}
 ]

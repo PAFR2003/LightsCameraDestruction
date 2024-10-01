@@ -1,60 +1,62 @@
 [
-    // Capital Uniques
-    {
-        "name": "Reactor Tower",
-        "isWonder": true,
-        "uniqueTo": "Reactorland",
-        "cost": 1,
-        "uniques": [
-            "Provides [5] [Power]",
-            "Can only be built <in [Capital] cities>",
-            "[+1 Culture] [in capital]",
-            "[+1 Science] [in capital]",
-            "[+1 Faith] [in all cities]",
-            "Free [Worker] appears",
-            "Free [Metal-Wielding Survivors] appears",
-            "Gain a free [Reaction Video Company] [in this city]"
-        ],
+	// Capital Uniques
+	{
+		"name": "Reactor Tower",
+		"isWonder": true,
+		"uniqueTo": "Reactorland",
+		"cost": 0,
+		"uniques": [
+			"Provides [5] [Power]",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"[+1 Culture] [in capital]",
+			"[+1 Science] [in capital]",
+			"[+1 Faith] [in all cities]",
+			"Free [Worker] appears",
+			"Free [Metal-Wielding Survivors] appears",
+			"Gain a free [Reaction Video Company] [in this city]"
+		],
 		"quote": "Ani: Hello there people, this is RTS Reactorland first day of broadcast signing on here in the wasteland. Over!",
 		"civilopediaText": [
 			{
 				"text": "Ani: Hello there people, this is TV1 Reactorland first day of broadcast signing on here in the wasteland. Over!"
 			}
 		]	
-    },
-    {
-        "name": "Red Lotus Society HQ",
-        "isWonder": true,
-        "uniqueTo": "Red Lotus Society",
-        "cost": 1,
-        "uniques": [
-            "Provides [1] [Power]",
-            "Can only be built <in [Capital] cities>",
-            "Free [Amazon] appears",
-            "Free [Gargarean] appears",
-            "Gain a free [Library] [in this city]"
-        ],
+	},
+	{
+		"name": "Red Lotus Society HQ",
+		"isWonder": true,
+		"uniqueTo": "Red Lotus Society",
+		"cost": 0,
+		"uniques": [
+			"Provides [1] [Power]",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Free [Amazon] appears",
+			"Free [Gargarean] appears",
+			"Gain a free [Library] [in this city]"
+		],
 		"quote": "Elites of Red Lotus Society: Welcome!",
 		"civilopediaText": [
 			{
 				"text": "Elites of Red Lotus Society: Welcome!"
 			}
 		]	
-    },
-   // Normal Uniques
-    {
-        "name": "Connection Tower",
-        "replaces": "Monument",
-        "uniqueTo": "Reactorland",
-        "culture": 3,
-        "cost": 43,
-        "hurryCostModifier": 40,
-        "uniques": [
-            "Consumes [1] [Power]",
-            "Can only be built <in [in all cities connected to capital] cities>",
-            "Destroyed when the city is captured"
-        ]
-    },
+	},
+	// Normal Uniques
+	{
+		"name": "Connection Tower",
+		"replaces": "Monument",
+		"uniqueTo": "Reactorland",
+		"culture": 3,
+		"cost": 43,
+		"hurryCostModifier": 40,
+		"uniques": [
+			"Consumes [1] [Power]",
+			"Can only be built <in cities connected to the capital>",
+			"Destroyed when the city is captured"
+		]
+	},
 	{
 		"name": "Production Truck Camp",
 		"replaces": "Broadcast Tower",
@@ -67,7 +69,7 @@
 		// "maintenance": 3,
 		"requiredTech": "Radio"
 	},
-        {
+	{
 		"name": "The People's Voices",
 		"replaces": "Stadium",
 		"uniqueTo": "Reactorland",
@@ -136,21 +138,21 @@
 		],
 		"requiredTech": "Education"
 	},
-    {
-        "name": "Cyprinid Farm",
-        "uniqueTo": "Reactorland",
-        "food": 1,
-        "hurryCostModifier": 25,
-        "maintenance": 1,
-        "percentStatBonus": {"food": 2},
-        "uniques": [
-            "[+1 Food] from [Lakes] tiles [in this city]",
-            "[+1 Food] from [River] tiles [in this city]",
-            "[+2 Food] from [Artificial Oasis] tiles [in this city]",
-            "[+3 Food] from [Oasis] tiles [in this city]"
-        ],
-        "requiredTech": "Land Remediation"
-    },
+	{
+		"name": "Cyprinid Farm",
+		"uniqueTo": "Reactorland",
+		"food": 1,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"percentStatBonus": {"food": 2},
+		"uniques": [
+			"[+1 Food] from [Lakes] tiles [in this city]",
+			"[+1 Food] from [River] tiles [in this city]",
+			"[+2 Food] from [Artificial oasis] tiles [in this city]",
+			"[+3 Food] from [Oasis] tiles [in this city]"
+		],
+		"requiredTech": "Land Remediation"
+	},
 	{
 		"name": "School of Human Values",
 		"uniqueTo": "Red Lotus Society",
